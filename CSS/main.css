@@ -1,0 +1,16 @@
+body {
+  background-color: #5279EC;
+}
+h1.title {
+  text-align: center;
+  font-family: 'Philosopher', sans-serif;
+}
+h1.correct {
+  font-family: 'Philosopher', sans-serif;
+}
+h1.incorrect {
+  font-family: 'Philosopher', sans-serif;
+}
+div.form-group {
+  font-family: 'Philosopher', sans-serif;
+}
